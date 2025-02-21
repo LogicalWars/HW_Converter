@@ -1,2 +1,9 @@
-out
-.idea
+*
+!*/
+!/src/**/TextColorSchemaImpl.java
+!/src/**/TextGraphicsConverterImpl.java
+!/src/**/Main.java
+!.gitignore
+!README.md
+
+
